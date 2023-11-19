@@ -11,7 +11,7 @@ The algorithm in _resultsPlotter.R_ draws a graph depicting the dependency of th
 
 ![image](https://github.com/Uyongo/fourStepsProcess/assets/53852545/9197373b-d56f-470d-9521-6465c9d485b0)
 
-This simulation experiment highlights the dependence of the effect of changes to the duration of one step (in this case the second step) in a workflow on throughput and waiting times. In more resource constrained settings (purple and blue graphs) average throughput and waiting times increase stronger than in less resource constrained situations (red graph). The table below displays the change to metrics by increasing the duration of the second step from 10 to 11 minutes.
+This simulation experiment highlights the dependence of the effect of changes to the duration of one step (in this case the second step) in a workflow on throughput and waiting times. In more resource constrained settings (purple and blue graphs) average throughput (solid lines) and waiting times (dashed lines) increase stronger than in less resource constrained situations (red graph). The table below displays the change to metrics by increasing the duration of the second step from 10 to 11 minutes.
 
                                               results
         increase in throughput times (red)          9
